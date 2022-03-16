@@ -1,7 +1,7 @@
 # Storing NFT Data On-Chain
 
 I do not really like the way NFTs are handled today with regards to the location of their storage.
-As far as I know, only [Crypto Punks](https://www.larvalabs.com/blog/2021-8-18-18-0/on-chain-cryptopunks) stores data (+ algorithm) on-chain.  
+As far as I know, only [Crypto Punks](https://www.larvalabs.com/blog/2021-8-18-18-0/on-chain-cryptopunks) and [On Chain Monkey](https://onchainmonkey.com/ )store data (+ algorithm) on-chain 
 There are obviously some solutions such as [IPFS](https://ipfs.io/), [Filecoin](https://filecoin.io/) and others
 like [NFT Storage](https://nft.storage/), but this blog has been largely inspired by Crypto Punks: how to generate images from Solidity.  
 
